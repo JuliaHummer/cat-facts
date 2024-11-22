@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "factNumber": "Fact 1",
+        "description": "In 1987 cats overtook dogs as the number one pet in America."
+    },
+    {
+        "id": 2,
+        "factNumber": "Fact 2",
+        "description": "Cats that live together sometimes rub each other's heads to show that they have no intention of fighting. Young cats do this more often, especially when they are excited."
+    },
+    {
+        "id": 3,
+        "factNumber": "Fact 3",
+        "description": "Mother cats teach their kittens to use the litter box."
+    },
+    {
+        "id": 4,
+        "factNumber": "Fact 4",
+        "description": "The way you treat kittens in the early stages of its life will render its personality traits later in life."
+    },
+    {
+        "id": 5,
+        "factNumber": "Fact 5",
+        "description": "Contrary to popular belief, the cat is a social animal. A pet cat will respond and answer to speech, and seems to enjoy human companionship."
+    },
+    {
+        "id": 6,
+        "factNumber": "Fact 6",
+        "description": "When well treated, a cat can live twenty or more years but the average life span of a domestic cat is 14 years."
+    },
+    {
+        "id": 7,
+        "factNumber": "Fact 7",
+        "description": "Neutering a cat extends its life span by two or three years."
+    },
+    {
+        "id": 8,
+        "factNumber": "Fact 8",
+        "description": "Cats, especially older cats, do get cancer. Many times this disease can be treated successfully."
+    },
+    {
+        "id": 9,
+        "factNumber": "Fact 9",
+        "description": "Cats cannot taste sweets."
+    },
+    {
+        "id": 10,
+        "factNumber": "Fact 10",
+        "description": "Cats must have fat in their diet because they cannot produce it on their own."
+    }
+]
